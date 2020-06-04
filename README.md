@@ -6,11 +6,11 @@ Projeto desenvolvido na NextLevelWeek da Rocketseat, usando Node, React e React 
 
 *usando o Yarn*
 
-    Yarn
+    Yarn && yarn dev
 
 *Usando o NPM*
 
-    npm install
+    npm install && npm run dev
 
 **Para Iniciar o App Web**
 
